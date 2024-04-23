@@ -1,5 +1,8 @@
 # OpenCart Manual Testing
 Complete manual testing process with entire documentation of an open-source ecommerce platform OpenCart that enables the selling and purchasing of online products
+
+Over 150+ test casesare prepared and tested and report is generated for each of the test cases
+
 Contains different testing documents from start of testing precedure to the end of the precedure
 Documents includes :-
   1>Functional requirement specification (FRS) document
